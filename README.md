@@ -1,4 +1,4 @@
-# LifeSync UI : Click link below
+# LifeSync Final Report & UI : Click links below
 "LifeSync” – A Wellness-Based Scheduling Application
 
 Final Report Link: https://github.com/CalebGeb1209/LifeSync-UX-UI/blob/main/Final%20Report%20for%20%E2%80%9CLifeSync%E2%80%9D%20%E2%80%93%20A%20Wellness-Based%20Scheduling%20Application.pdf
